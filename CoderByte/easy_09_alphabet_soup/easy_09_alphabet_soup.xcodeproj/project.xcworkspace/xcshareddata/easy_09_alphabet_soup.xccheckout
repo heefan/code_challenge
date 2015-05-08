@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>FC79AC57-9D92-4031-B7DF-958F9EDDC1D1</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>4475696F0294D8221836976CD8523AD803DA9280</key>
+		<string>github.com:heefan/code_challenge.git</string>
+		<key>FDD6F6208C02768A7612016AA8329334D1CDA8F8</key>
+		<string>https://github.com/NextFaze/iqnectmobile-iOS.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CoderByte/easy_09_alphabet_soup/easy_09_alphabet_soup.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>4475696F0294D8221836976CD8523AD803DA9280</key>
+		<string>../../../..</string>
+		<key>FDD6F6208C02768A7612016AA8329334D1CDA8F8</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:heefan/code_challenge.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>4475696F0294D8221836976CD8523AD803DA9280</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FDD6F6208C02768A7612016AA8329334D1CDA8F8</string>
+			<key>IDESourceControlWCCName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4475696F0294D8221836976CD8523AD803DA9280</string>
+			<key>IDESourceControlWCCName</key>
+			<string>code_challenge</string>
+		</dict>
+	</array>
+</dict>
+</plist>
